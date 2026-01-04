@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/gunjan-creates/Costom-Svg/blob/main/gunjan_snake.svg" width="100%" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz__suyog__8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suyog-chore-31648b358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2024000622@mssu.ac.in) 
